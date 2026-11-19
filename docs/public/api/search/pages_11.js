@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['language_20support_0',['Language support',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2conte8e504e90f4f18a4a41fe1799dc748c9.html#autotoc_md124',1,'']]],
+  ['lhs_20rhs_20bhs_1',['Advanced Panel Controls (LHS, RHS, BHS)',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont84491c4f585602183a028f6cd4b98175.html#autotoc_md57',1,'']]],
+  ['library_2',['Library',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont7b2c0ef1bca16136c92218129a2511af.html#autotoc_md93',1,'Discussion to this Library'],['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont9da58dff12d31a22b1952b64de6cdf9e.html#autotoc_md86',1,'Discussions about this Library']]],
+  ['library_3',['library',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont84491c4f585602183a028f6cd4b98175.html#autotoc_md67',1,'Discussions about this library'],['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont738b8c4e954be197a58801c296b382d3.html#autotoc_md79',1,'Discussions to this library'],['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont4f12a2c2d6e04849563cbd87f543d648.html#autotoc_md111',1,'Discussions to this library']]],
+  ['license_4',['LICENSE',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2conte8e504e90f4f18a4a41fe1799dc748c9.html#autotoc_md126',1,'']]],
+  ['limitations_20and_20issues_5',['Known limitations and issues',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont4f12a2c2d6e04849563cbd87f543d648.html#autotoc_md98',1,'']]],
+  ['limitations_20and_20warnings_6',['⚠️ Know Limitations and Warnings',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont738b8c4e954be197a58801c296b382d3.html#autotoc_md72',1,'']]],
+  ['lua_7',['Space-Lua',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont9da58dff12d31a22b1952b64de6cdf9e.html#autotoc_md85',1,'']]],
+  ['lua_20js_20imports_8',['Space-Lua + JS (Imports)',['../md__d_1_2_source_code_2_public_2htronic-templates_2docs-astro-template-catagory_2docs_2src_2cont84491c4f585602183a028f6cd4b98175.html#autotoc_md66',1,'']]]
+];
