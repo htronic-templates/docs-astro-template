@@ -7,7 +7,7 @@ visible at:
 
 ## Theme
 
-The theme used is starlight-theme-black.vercel.app
+The theme used is a fork of starlight-theme-black.vercel.app
 
   * https://starlight.astro.build/
   * https://starlight.astro.build/resources/themes/#_top

@@ -1,8 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightThemeBlack from 'starlight-theme-black'
-import starlightSidebarTopics from 'starlight-sidebar-topics';
+import starlightThemeBlack from '@hecatron/starlight-theme-black'
 import starlightAutoDrafts from 'starlight-auto-drafts';
 import { generateSidebarGroups } from './src/sidebar_grps.mjs';
 
@@ -20,7 +19,6 @@ export default defineConfig({
       },
       social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/htronic-templates/docs-astro-template' }],
       customCss: [
-        './src/styles/custom.css',
         './src/styles/themes/theme-deep-purple.css',
       ],
       editLink: {
